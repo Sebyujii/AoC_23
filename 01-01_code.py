@@ -1,4 +1,5 @@
-with open("C:\Users\sebas\Desktop\Code\Adventofcode_2023\01_input.txt") as file:
+# with open("C:\Users\sebas\Desktop\Code\Adventofcode_2023\01_input.txt") as file: # laptop
+with open("E:\Code\AoC_23\01_input.txt") as file: # PC
     n = 0
     while line := file.readline():
         first = -1
